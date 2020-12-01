@@ -1,0 +1,157 @@
+.menu {
+	
+	background-color: white;
+}
+#Pesquisa {
+	background-color: #C4C4C4;
+	line-height: 50px;
+	text-align: center;
+}
+.margem {
+	height: 20px;
+}
+#conteudo {
+	height: 100%;
+	background-color: #662483;
+}
+#rodape {
+	background-color: black;
+	height: 50px;
+}
+#margem {
+	background-color: #662483;
+	height: 10px;
+}
+.margem2 { 
+background-color: #ADD8E6 ;
+height: 300px; }
+.imagem {
+	height: 30%;
+	width:  30%;
+	margin: 11px;
+	text-align: center;
+
+}
+.icon {
+	height: 50px;
+	width: 50px;
+	text-align: center;
+}
+#imagem-perfil {
+	height: 100%;
+	width:  100%;
+}
+.margem3 {
+	height: 50px;
+	background-color: #662483
+}
+.imagem2 {
+	height: 100%;
+	width:  100%;
+	margin: 11px;
+}
+.arruma {
+	text-align: center;
+}
+.imagem3 {
+	height: 100%;
+	width:  100%;;
+}
+.tamanho {
+	height: 100%;
+	width:  100%;
+}
+.carrossel {
+	text-align: center;
+	direction: left;
+}
+.altura1 {
+	height: 300px;
+	text-align: left;
+}
+.altura2 {
+	height: 200px;
+	text-orientation: left;
+}
+
+.imagen-icone {
+	height: 50%;
+	width: 100%;
+}
+
+}
+.fundo-perfil {
+	background-color: #2CA7DF ;
+	height: 100%;
+}
+.fonte {
+	color: #662483;
+	text-align: top;
+}
+.titulo {
+	color: #ADD8E6 
+}
+
+.imagem4 {
+	height: 100%;
+	width: 100%; 
+}
+.imagem5 {
+	height: 90%;
+	width: 90%;
+	margin: 10px;
+	margin-left: 20px;
+}
+
+#conteudo2 {
+	height: 100%;
+	width: 500px;
+	background-color: #662483;
+}
+#Pesquisa2 {
+	background-color: #C4C4C4;
+	line-height: 50px;
+	text-align: center;
+}
+.central { 
+text-align: center;
+ }
+ .ajuda {
+ 	height: 5000px;
+ 	width: 1200px;
+ 	background-color: #ADD8E6;
+ }
+ #imagem-logo {
+ 	height: 10%;
+ 	width: 10%;
+ }
+ .margemdivisoria {
+	background-color: #662483;
+	height: 3px;
+	margin: 2px;
+}
+.margem15 {
+	height: 3px;
+	margin: 2px;
+	margin-bottom: 5px;
+}
+.margem16 {
+	height: 500px;
+	width: 100%;
+	background-color: #ADD8E6;
+}
+.margem17{
+	height: 50px;
+	background-color: #ADD8E6
+
+}
+.margem4 {
+background-color: #ADD8E6 ;
+height: 100%;
+width: 50%;
+
+}
+#margem2 {
+	background-color: #662483;
+	height: 10px;
+}
